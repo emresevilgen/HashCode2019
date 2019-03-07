@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1551388883 source:c:\users\munib emre sevilgen\desktop\hashcode\src\hashcode1.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<iterator>
+	<cstring>
+	"photo.cpp"
+
+1551388853 c:\users\munib emre sevilgen\desktop\hashcode\src\photo.cpp
+	<iostream>
+	<stdio.h>
+
+1551388853 source:c:\users\munib emre sevilgen\desktop\hashcode\src\photo.cpp
+	<iostream>
+	<stdio.h>
+
